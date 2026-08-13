@@ -17,10 +17,18 @@
     "kind": "info",
     "publishedAt": "2026-08-12T21:15:00-04:00"
   },
+{
+  "id": "ops-soundcheck",
+  "text": "Soundcheck terminé… Oh god, Brigitte, t’es ben cool! 🔥 On a hâte de vivre ça avec vous.",
+  "kind": "info",
+  "publishedAt": "2026-08-13T17:35:00-04:00"
+},
   {
-    "id": "ops-soundcheck",
-    "text": "On vient d’entendre le soundcheck de nos trois bands de ce soir… Oh god, Brigitte, t’es ben cool! 🔥 On a tellement hâte de vivre cette soirée-là avec vous.",
-    "kind": "info",
-    "publishedAt": "2026-08-13T17:35:00-04:00"
-  }
+  "id": "ops-portes-ouvertes",
+  "text": "Ça y est, Brigitte. On est prêts, les portes sont ouvertes… il ne manque plus que vous. À tantôt! ❤️",
+  "kind": "info",
+  "publishedAt": "2026-08-13T18:00:00-04:00"
+}
+  
+  
 ]
