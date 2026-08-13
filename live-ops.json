@@ -5,16 +5,22 @@
     "kind": "info",
     "publishedAt": "2026-08-12T10:00:00-04:00"
   },
-{
+  {
     "id": "ops-filmdebut",
-    "text": "Le film commence.  On vous souhaite une belle projection.",
+    "text": "Le film commence. On vous souhaite une belle projection.",
     "kind": "info",
     "publishedAt": "2026-08-12T20:00:00-04:00"
   },
-{
+  {
     "id": "ops-filminterview",
     "text": "Interview avec Martin en cours.",
     "kind": "info",
     "publishedAt": "2026-08-12T21:15:00-04:00"
+  },
+  {
+    "id": "ops-soundcheck",
+    "text": "On vient d’entendre le soundcheck de nos trois bands de ce soir… Oh god, Brigitte, t’es ben cool! 🔥 On a tellement hâte de vivre cette soirée-là avec vous.",
+    "kind": "info",
+    "publishedAt": "2026-08-13T17:35:00-04:00"
   }
 ]
