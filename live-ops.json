@@ -4,5 +4,11 @@
     "text": "Bienvenue au Festival à deux têtes. Prenez soin de vous et des autres, et bon festival! A+",
     "kind": "info",
     "publishedAt": "2026-08-12T10:00:00-04:00"
+  },
+{
+    "id": "ops-filmdebut",
+    "text": "Le film commence.  On vous souhaite une belle projection.",
+    "kind": "info",
+    "publishedAt": "2026-08-12T20:00:00-04:00"
   }
 ]
